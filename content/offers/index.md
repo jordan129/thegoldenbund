@@ -1,5 +1,6 @@
 ---
-title: "Offers"
-slug: "Offers"
-type: "Offers"
+title: "offers"
+slug: "offers"
+type: "offers"
+layout: "single"
 ---
