@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://thegoldenbund.co.uk/"
 languageCode: "en-gb"
-title: "Sushi Moka"
+title: "The Golden Bund"
 disableKinds: ["taxonomy", "term"]

@@ -1,9 +1,9 @@
 brand:
-  name: "Sushi Moka"
+  name: "The Golden Bund"
   logo: "/images/logo.jpg"
 
 links:
-  reservation_url: "https://web.dojo.app/create_booking/vendor/NPazRARQHh5GSHGYGmyseeNnpbOgrkI6aXaxJo81SF0_restaurant"
+  reservation_url: "https://web.dojo.app/create_booking/vendor/sqsGd0gpxLucm1ofglwOIUzwrHfdJHPt1lpMzB9O0t8_restaurant"
 
 contact:
   page_title: "Discover Our Culinary Experience"
@@ -11,22 +11,21 @@ contact:
 
   left_title: "Contact Us"
   address_lines:
-    - "Ram Quarter, 24 Ryeland Blvd, London SW18 1UN"
-  phone: "+442033363106"
-  phone_display: "0203 336 3106"
-  email: "info@sushimoka.co.uk"
+    - "139-151 Marylebone Road, London NW1 5QE"
+  phone: "+442036380559"
+  phone_display: "0203 638 0559"
+  email: "info@thegoldenbund.co.uk"
 
   right_title: "Opening Hours"
   hours_lines:
-    - "Tuesday to Friday: 12:00-15:00 & 17:00-22:00"
-    - "Saturday: 12:00-22:00"
-    - "Sunday: 12:00-21:00"
-    - "Monday: Closed"
+    - "Monday to Saturday"
+    - " 12:00-15:00"
+    - " 17:00-22:00"
+    - "Sunday: Closed"
 
-  map_iframe_src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.0334273401113!2d-0.19299280000000002!3d51.4575427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760f55ab7558e1%3A0xbd9d6c0d52c0f9a6!2sSushi%20Moka!5e0!3m2!1sen!2sus!4v1767019757854!5m2!1sen!2sus"
+  map_iframe_src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.574999329034!2d-0.1650573231203639!3d51.52101270970855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ba7cd457935%3A0xca88f1539fe0e50b!2sThe%20Golden%20Bund!5e0!3m2!1sen!2sus!4v1767194600486!5m2!1sen!2sus"
   map_height_home: 360
   map_height_page: 420
-
 
 announcement:
   enabled: true          # ✅ 一行开关：true/false
@@ -36,8 +35,8 @@ announcement:
   message: "Closed on 1st Jan. Reopening 2nd Jan."
   # 时间用 RFC3339：YYYY-MM-DDTHH:MM:SS+00:00
   # 建议用英国时间：+00:00（冬令时）或 +01:00（夏令时）
-  start: "2026-01-01T00:00:00+00:00"
-  end:   "2025-01-01T23:59:59+00:00"
+  start: "2025-12-31T00:00:00+00:00"
+  end:   "2026-01-01T23:59:59+00:00"
   # 可选链接（例如跳转到 offers/ 或 reservation）
   #link:
   #  label: "View details"
