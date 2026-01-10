@@ -8,7 +8,6 @@ slider:
   interval_ms: 4000
 
 banner:
-  kicker: OMAKASE
   title: "The Golden Bund: A Taste of Shanghai in London"
   lead: "Experience the flavours of Shanghai at The Golden Bund, where every dish reflects a tradition of culinary refinement. A distinguished Shanghai-style restaurant in London, The Golden Bund has earned acclaim for its authentic flavours and meticulous craftsmanship. With an unwavering commitment to quality and authenticity, it is poised to become a must-visit destination for Chinese cuisine enthusiasts in the city."
   image: /images/hero2.png
